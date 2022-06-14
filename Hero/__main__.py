@@ -82,12 +82,12 @@ async def initiate_bot():
             status="[bold blue]Importation Completed!",
         )
     console.print(
-        "[bold green]ᴄᴏɴɢʀᴀᴛs ʜᴇʀᴏ ᴍᴜsɪᴄ ʙᴏᴛ ʜᴀs sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🌸✨\n"
+        "[bold green]ᴄᴏɴɢʀᴀᴛs ᴀᴀʀᴜ🇽 ʀᴏʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🌸✨\n"
     )
     try:
         await app.send_message(
             LOG_GROUP_ID,
-            "<b>ᴄᴏɴɢʀᴀᴛs ᴍᴜsɪᴄ ʙᴏᴛ ʜᴀs sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🌸✨</b>",
+            "<b>ᴄᴏɴɢʀᴀᴛs ᴀᴀʀᴜ ʙᴏᴛ ʜᴀs sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🌸✨</b>",
         )
     except Exception as e:
         print(
@@ -115,8 +115,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_1.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_1.join_chat("LOVE_BIRDS_123")
+            await ASS_CLI_1.join_chat("AARU_BOTS_ZONE")
+            await ASS_CLI_1.join_chat("AARU_SUPPORT")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 1 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME1}")
@@ -134,8 +134,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_2.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_2.join_chat("LOVE_BIRDS_123")
+            await ASS_CLI_2.join_chat("AARU_BOTS_ZONE")
+            await ASS_CLI_2.join_chat("AARU_SUPPORT")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 2 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME2}")
@@ -153,8 +153,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_3.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_3.join_chat("LOVE_BIRDS_123")
+            await ASS_CLI_3.join_chat("AARU_BOT_ZONE")
+            await ASS_CLI_3.join_chat("AARU_SUPPORT")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 3 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME3}")
@@ -172,8 +172,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_4.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_4.join_chat("LOVE_BIRDS_123")
+            await ASS_CLI_4.join_chat("AARU_BOTS_ZONE")
+            await ASS_CLI_4.join_chat("AARU_SUPPORT")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 4 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME4}")
@@ -191,8 +191,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_5.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_5.join_chat("love_birds_group")
+            await ASS_CLI_5.join_chat("AARU_BOTS_ZONE")
+            await ASS_CLI_5.join_chat("AARU_SUPPORT")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 5 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME5}")
@@ -210,11 +210,11 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await LOG_CLIENT.join_chat("ABOUT_BANNA_XD")
-            await LOG_CLIENT.join_chat("LOVE_BIRDS_123")
+            await LOG_CLIENT.join_chat("AARU_BOTS_ZONE")
+            await LOG_CLIENT.join_chat("AARU_SUPPORT")
         except:
             pass
-    console.print(f"└[red] ʜᴇʀᴏ ᴍᴜsɪᴄ ʙᴏᴛ ʙᴏᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ...")
+    console.print(f"└[red] ᴀᴀʀᴜ🇽 ʀᴏʙᴏᴛ  ʙᴏᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ...")
     if STRING1 != "None":
         await pytgcalls1.start()
     if STRING2 != "None":
@@ -374,7 +374,7 @@ async def help_parser(name, keyboard=None):
         keyboard = InlineKeyboardMarkup(paginate_modules(0, HELPABLE, "help"))
     return (
         """ʜᴇʟʟᴏ {first_name},
-ɪ ᴀᴍ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ, ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ʏᴏᴜʀ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
+ɪ ᴀᴍ ᴀᴀʀᴜ🇽 ʀᴏʙᴏᴛ, ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ʏᴏᴜʀ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
 
 ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: `/`
 """.format(
