@@ -1,7 +1,7 @@
 {
   "name": "❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄs ʙᴏᴛ",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ғᴜɴᴄᴛɪᴏɴs ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://telegra.ph/file/eaa1c3f8fc5a0b6605ee3.jpg",
+  "logo": "https://telegra.ph/file/89639083c2100561c7276.jpg",
   "keywords": [
   "python3",
   "telegram"
@@ -10,12 +10,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "13956514",
+      "value": "18145443",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "c7736b2793be5933667b9a5b65d1157d",
+      "value": "dc90da21390582736a9d5b4ffce8b5bb",
       "required": true
     },
     "BOT_TOKEN": {
@@ -35,22 +35,22 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "AaRu_RoBoT",
+      "value": "AaRu_X_RoBoT",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "ABOUT_BANNA_XD",
+      "value": "AARU_BOTS_ZONE",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "LOVE_BIRDS_123",
+      "value": "AARU_SUPPORT",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "5568362278",
+      "value": "5150456401",
       "required": true
     },
     "STRING_SESSION1": {
@@ -90,12 +90,12 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001732187477",
+      "value": "-1001259289773",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "5568362278",
+      "value": "5150456401",
       "required": true
     },
     "LOG_SESSION": {
