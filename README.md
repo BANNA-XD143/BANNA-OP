@@ -10,7 +10,7 @@
     
 # ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄs ʙᴏᴛ
 
-<p align="center"><a href="https://t.me/BANNA_XD"><img src="https://telegra.ph//file/e4bff82ab3fbc72818adc.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/BANNA_XD"><img src="https://telegra.ph/file/89639083c2100561c7276.jpg" width="300"></a></p>
 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs. ɪᴛ ᴄᴏᴍᴇs ᴡɪᴛʜ  ᴜsᴇʀ ғʀɪᴇɴᴅʟʏ ᴀɴᴅ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ʏᴇᴛ ᴇʟᴇɢᴀɴᴛ ғᴇᴀᴛᴜʀᴇs.
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
