@@ -55,7 +55,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/AARU_SUPPORT"
                 ),
             ],
         ]
@@ -74,7 +74,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌺 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="🌺 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/AARU_BOTS_ZONE"
                 ),
             ],
         ]
@@ -93,10 +93,10 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌸 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="🌸 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/AARU_BOTS_ZONE"
                 ),
                 InlineKeyboardButton(
-                    text="🌺 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌺 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/AARU_SUPPORT"
                 ),
             ],
         ]
@@ -134,7 +134,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/AARU_SUPPORT"
                 ),
             ],
         ]
@@ -154,7 +154,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌺 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="🌺 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/AARU_BOTS_ZONE"
                 ),
             ],
         ]
@@ -174,10 +174,10 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌸 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="🌸 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/AARU_BOTS_ZONE"
                 ),
                 InlineKeyboardButton(
-                    text="🌺 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌺 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/AARU_SUPPORT"
                 ),
             ],
         ]
