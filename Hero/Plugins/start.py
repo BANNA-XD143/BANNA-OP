@@ -9,7 +9,7 @@ import config
 from config import BANNED_USERS
 from config.config import OWNER_ID
 from strings import get_command, get_string
-from Hero. import Telegram, YouTube, app
+from Hero.import Telegram, YouTube, app
 from Hero.misc import SUDOERS
 from Hero.plugins.Robot.playlist import del_plist_msg
 from Hero.plugins.Robot.sudoers import sudoers_list
